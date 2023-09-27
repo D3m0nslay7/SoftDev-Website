@@ -8,7 +8,7 @@ We were told to create a placeholder website for a development company, we would
 I added a portfolio3Report.docx about the project.
 
 # Information 
-Created using VSCode IDE
-Created using PHP, HTML, and JavaScript.
-Included a Project Report
+  - Created using VSCode IDE
+  - Created using PHP, HTML, and JavaScript.
+  - Included a Project Report
 
